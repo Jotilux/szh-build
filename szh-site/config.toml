@@ -1,5 +1,6 @@
 ######################## default configuration ####################
-baseURL = "https://xn--h-pfa.de/"
+#baseURL = "https://xn--h-pfa.de/"
+baseURL = "szh2020.netlify.com"
 title = "Sommer Zonen Hack 2020"
 theme = "szh-build"
 # disable language
