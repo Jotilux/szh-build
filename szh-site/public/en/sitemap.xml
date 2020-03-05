@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://xn--h-pfa.de/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://xn--h-pfa.de/de/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xn--h-pfa.de/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xn--h-pfa.de/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://xn--h-pfa.de/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xn--h-pfa.de/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xn--h-pfa.de/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://xn--h-pfa.de/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xn--h-pfa.de/tags/"
+                />
+  </url>
+  
+</urlset>

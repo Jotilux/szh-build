@@ -1,0 +1,294 @@
+########################## hero area ##########################
+hero:
+  title : "Sommer Zonen Hack 2020"
+
+  # animated text loop
+  occupations:
+    - "14. - 16 August 2020"
+    - "Eigenbaukombinat Halle e.V."
+    - "Landsberger Str. 3 06108 Halle (Saale)"
+
+  # slider background image loop
+  slider_image:
+    - "images/slider/slider-1.png"
+    - "images/slider/slider-2.jpg"
+    - "images/slider/slider-3.jpg"
+    - "images/slider/slider-4.jpg"
+    - "images/slider/slider-5.jpg"
+    - "images/slider/slider-6.jpg"
+
+  # button
+  button:
+    enable : true
+    label : "Ticket?"
+    link : "#service"
+
+
+####################### Full screen navigation #####################
+fullscreen_nav:
+  enable : true
+  bg_image : "images/backgrounds/Leiterbahn.png"
+  first_name : "14. - 16. August 2020"
+  last_name : "SZH"
+  
+
+########################### About ##################################
+about:
+  enable : true
+  image : "images/backgrounds/portrait.png"
+  title : "About"
+  content : "
+#### ChaosZone 2018
+
+ChaosZone is the project to setting up an collaborative Assembly at the Chaos Communication Congress.
+ChaosZone wants to become a place - a platform - to unite hackspaces around C3D2, the Erfa of the Chaos Computer Club from Dresden in the former GDR.
+We are focused on hacking (software, hardware and other stuff). We are providing a friendly environment for learning from each other.
+
+#### ChaosZone 2020
+
+ChaosZone is a collaboration between a lot of hackspaces in the eastern part of germany and beyond. After two excellent and legendary ChaosZone Assemblys 35c3 + 36c3 we aim to further intensify this collab by getting together to an awesome “SommerZonenHack” (ßH). And because there is no more wall, every creature of the chaos familiy is welcome!"
+  # button
+  button:
+    enable : false
+    label : "DOWNLOAD MY CV"
+    link : "#" # you can put your cv in static folder and give the path here.
+
+###########################3 Experience ##############################
+experience:
+  enable : true
+  title : "timetable"
+  experience_list:
+    # experience item loop
+    - name : "Friday"
+      company : "start 16:00"
+      duration : ""
+      content : "n.n."
+      
+    # experience item loop
+    - name : "Saturday"
+      company : "open End"
+      duration : ""
+      content : "n.n."
+      
+    # experience item loop
+    - name : "Sunday"
+      company : ""
+      duration : ""
+      content : "n.n."
+
+
+############################### Skill #################################
+skill:
+  enable : true
+  title : "ideas"
+  skill_list:
+    # skill item loop
+    - name : "workshops"
+      parcentage : "1%"
+      
+    # skill item loop
+    - name : "37c3 planning"
+      parcentage : "45%"
+      
+    # skill item loop
+    - name : "Sticker / poster exchange"
+      parcentage : "90%"
+      
+    # skill item loop
+    - name : "ddr computer museum"
+      parcentage : "70%"
+
+
+################################### Service ##############################3
+service:
+  enable : false
+  title : "SERVICES"
+  service_list:
+    # service item loop
+    - name : "Web Development"
+      image : "images/icons/web-development.png"
+      
+    # service item loop
+    - name : "Graphic Design"
+      image : "images/icons/graphic-design.png"
+      
+    # service item loop
+    - name : "Database Management"
+      image : "images/icons/dbms.png"
+      
+    # service item loop
+    - name : "Software Development"
+      image : "images/icons/software-development.png"
+      
+    # service item loop
+    - name : "Digital Marketing"
+      image : "images/icons/marketing.png"
+      
+    # service item loop
+    - name : "Mobile App Development"
+      image : "images/icons/mobile-app.png"
+
+
+############################## call to action #########################
+call_to_action:
+  enable : true
+  bg_image : "images/backgrounds/need-service.jpg"
+  title : "Registration?"
+  button:
+    enable : true
+    label : "take a Ticket"
+    link : "https://tickets.eigenbaukombinat.de/ebk/szh2020/"
+
+
+############################# portfolio ################################
+portfolio:
+  enable : false
+  title : "PORTFOLIO"
+  portfolio_list:
+    # portfolio item loop
+    - name : "Project <br> Title"
+      image : "images/portfolio/item1.jpg"
+      date : "Feb 2018"
+      category : "Web Development"
+      
+    # portfolio item loop
+    - name : "Project <br> Title"
+      image : "images/portfolio/item2.jpg"
+      date : "Feb 2018"
+      category : "Web Development"
+      
+    # portfolio item loop
+    - name : "Project <br> Title"
+      image : "images/portfolio/item3.jpg"
+      date : "Feb 2018"
+      category : "Web Development"
+      
+    # portfolio item loop
+    - name : "Project <br> Title"
+      image : "images/portfolio/item4.jpg"
+      date : "Feb 2018"
+      category : "Web Development"
+      
+    # portfolio item loop
+    - name : "Project <br> Title"
+      image : "images/portfolio/item5.jpg"
+      date : "Feb 2018"
+      category : "Web Development"
+      
+    # portfolio item loop
+    - name : "Project <br> Title"
+      image : "images/portfolio/item6.jpg"
+      date : "Feb 2018"
+      category : "Web Development"
+      
+    # portfolio item loop
+    - name : "Project <br> Title"
+      image : "images/portfolio/item7.jpg"
+      date : "Feb 2018"
+      category : "Graphics"
+      
+    # portfolio item loop
+    - name : "Project <br> Title"
+      image : "images/portfolio/item8.jpg"
+      date : "Feb 2018"
+      category : "Graphics"
+      
+    # portfolio item loop
+    - name : "Project <br> Title"
+      image : "images/portfolio/item9.jpg"
+      date : "Feb 2018"
+      category : "Database"
+      
+    # portfolio item loop
+    - name : "Project <br> Title"
+      image : "images/portfolio/item10.jpg"
+      date : "Feb 2018"
+      category : "Database"
+      
+    # portfolio item loop
+    - name : "Project <br> Title"
+      image : "images/portfolio/item11.jpg"
+      date : "Feb 2018"
+      category : "Database"
+      
+    # portfolio item loop
+    - name : "Project <br> Title"
+      image : "images/portfolio/item12.jpg"
+      date : "Feb 2018"
+      category : "Graphics"
+      
+    # portfolio item loop
+    - name : "Project <br> Title"
+      image : "images/portfolio/item13.jpg"
+      date : "Feb 2018"
+      category : "Graphics"
+      
+    # portfolio item loop
+    - name : "Project <br> Title"
+      image : "images/portfolio/item14.jpg"
+      date : "Feb 2018"
+      category : "Graphics"
+      
+    # portfolio item loop
+    - name : "Project <br> Title"
+      image : "images/portfolio/item15.jpg"
+      date : "Feb 2018"
+      category : "Graphics"
+
+
+################################# Testimonial #########################33
+testimonial:
+  enable : false
+  title : "TESTIMONIALS"
+  testimonial_slider:
+    # slider item loop
+    - name : "Micheal Clark"
+      image : "images/clients/client1.jpg"
+      designation : "CEO, RANDOM COMPANY"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ad,
+                omnis totam iusto quia? Excepturi itaque quaerat, quia unde delectus rem error dignissimos in iusto."
+                
+    # slider item loop
+    - name : "Peter Parker"
+      image : "images/clients/client2.jpg"
+      designation : "CEO, RANDOM COMPANY"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ad,
+                omnis totam iusto quia? Excepturi itaque quaerat, quia unde delectus rem error dignissimos in iusto."
+                
+    # slider item loop
+    - name : "Jessica Jones"
+      image : "images/clients/client3.jpg"
+      designation : "CEO, RANDOM COMPANY"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ad,
+                omnis totam iusto quia? Excepturi itaque quaerat, quia unde delectus rem error dignissimos in iusto."
+
+
+######################### funfacts #############################3
+funfacts:
+  enable : false
+  funfacts_list:
+    # funfacts item loop
+    - name : "HANDS TO WORK"
+      image : "images/icons/works.png"
+      count : "100"
+      
+    # funfacts item loop
+    - name : "HAPPY CLIENT"
+      image : "images/icons/happy.png"
+      count : "200"
+      
+    # funfacts item loop
+    - name : "FINISHED PROJECT"
+      image : "images/icons/project.png"
+      count : "250"
+      
+    # funfacts item loop
+    - name : "CUPS OF COFFEE"
+      image : "images/icons/coffee.png"
+      count : "150"
+
+
+############################## contact ###########################
+contact:
+  enable : false
+  title : "SAY HELLO!"
